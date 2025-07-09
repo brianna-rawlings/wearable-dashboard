@@ -109,12 +109,12 @@ Explore the visuals from the app in action:
 
 ## 🚀 **How to run**
 
-1️⃣ Clone this repo and create a Python environment  
-2️⃣ Install dependencies:
+- 1️⃣ Clone this repo and create a Python environment  
+- 2️⃣ Install dependencies:
 pip install pandas matplotlib scikit-learn streamlit
-3️⃣ Run the Streamlit app:
+- 3️⃣ Run the Streamlit app:
 streamlit run sleep_dashboard.py
-4️⃣ Upload your own sleeps.csv, workouts.csv, and physiological_cycles.csv
+- 4️⃣ Upload your own sleeps.csv, workouts.csv, and physiological_cycles.csv
 (or use sample data if you don’t have WHOOP)
 
 
