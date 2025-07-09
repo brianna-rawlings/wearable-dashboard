@@ -5,6 +5,14 @@ It explores how my daily training **strain** and workouts affect my **sleep qual
 
 ---
 
+## 🧠 About WHOOP
+
+[WHOOP](https://www.whoop.com/) is a wearable device designed to help athletes and health-conscious individuals optimize recovery, sleep, and performance. It continuously tracks metrics like strain, sleep stages, heart rate variability (HRV), and more—offering personalized insights into how your body responds to training and rest.
+
+This dashboard analyzes WHOOP data to explore how daily strain impacts sleep quality, HRV, and overall recovery.
+
+---
+
 ## 🚀 **Project Overview**
 
 🔍 **Goal:**  
