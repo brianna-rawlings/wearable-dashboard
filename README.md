@@ -65,6 +65,13 @@ It explores how my daily training **strain** and workouts affect my **sleep qual
 
 ---
 
+## 🚀 Live Demo
+
+Explore the interactive dashboard here:  
+👉 [wearable-dashboard.streamlit.app](https://wearable-dashboard-nitfqisrqchcd2sizgzdzg.streamlit.app/)
+
+---
+
 ## 📈 **Example questions answered**
 
 💡 How does a high strain day affect my REM or Deep Sleep? 
@@ -104,6 +111,13 @@ Explore the visuals from the app in action:
 - How to align daily strain and next-day HRV for proper cause-effect
 - How to turn raw data into clear, actionable **insights** an athlete or coach can use
 - How to build a **mini-version** of a real wearable recovery model like WHOOP or Oura’s
+
+---
+
+## 🖥️ Try It Yourself
+
+Click below to explore the dashboard without installing anything: 
+👉 [wearable-dashboard.streamlit.app](https://wearable-dashboard-nitfqisrqchcd2sizgzdzg.streamlit.app/)
 
 ---
 
