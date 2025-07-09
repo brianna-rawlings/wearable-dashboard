@@ -17,23 +17,28 @@ It explores how my daily training **strain** and workouts affect my **sleep qual
 
 ## 🗂️ **What’s included**
 
+```
 📁 /data/
-├── sleeps.csv                       ← Exported WHOOP sleep data
-├── workouts.csv                     ← Daily training strain and energy metrics
-├── physiological_cycles.csv         ← HRV and menstrual cycle exports
+├── sleeps.csv                  ← Exported WHOOP sleep data
+├── workouts.csv                ← Daily training strain and energy metrics
+├── physiological_cycles.csv    ← HRV and menstrual cycle exports
 
 📁 /notebooks/
-├── wearable_sleep_analysis.ipynb    ← Exploratory analysis & visuals (sleep, strain, HRV)
-├── sleep_ml.ipynb                   ← Simple ML model predicting sleep performance
+├── wearable_sleep_analysis.ipynb     ← Exploratory analysis & visuals
+├── sleep_ml.ipynb                    ← Sleep performance prediction model
 
 📁 /app/
-├── sleep_dashboard.py               ← Interactive Streamlit dashboard
+├── sleep_dashboard.py                ← Streamlit dashboard interface
 
 📁 /screenshots/
-├──
+├── rem_vs_deep_sleep.png
+├── strain_vs_sleep_perf.png
+...
 
-📝 README.md                          ← Project overview, setup instructions & insights
-📄 requirements.txt                   ← Python dependencies for running the dashboard
+📝 README.md                   ← Project overview & usage
+📄 requirements.txt            ← Python dependencies
+```
+
 
 
 
