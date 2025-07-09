@@ -125,6 +125,21 @@ The scatter plot below compares predicted sleep performance scores to actual val
 
 ![Actual vs Predicted Sleep Performance](screenshots/actualvspredictedsleepperf.png)
 
+---
+
+## 🔍 What I Found
+
+- Higher daily strain scores were consistently associated with reduced REM and Deep sleep, suggesting that intense exertion may limit overnight recovery.
+- Sleep performance tended to improve on days with lower strain, especially when paired with longer total sleep durations.
+- Heart Rate Variability (HRV) dropped following high-strain days, indicating delayed physiological recovery.
+- Cycle phase appeared to influence recovery patterns: during the follicular phase, HRV was more resilient to strain, while luteal phase responses showed greater variability.
+- Sleep duration and performance were positively correlated, but not perfectly—highlighting the importance of sleep quality, not just quantity.
+- A linear regression model predicted sleep performance with R² = 0.89 and MSE = 57.48, indicating a strong signal in stage-level sleep metrics.
+
+> These insights helped me explore how training and recovery interact day to day, and gave me hands-on experience with building reproducible pipelines around wearable data.
+
+---
+
 ## 🖥️ Dashboard Preview
 
 Explore the visuals from the app in action:
@@ -150,19 +165,6 @@ Explore the visuals from the app in action:
 - How to align daily strain and next-day HRV for proper cause-effect
 - How to turn raw data into clear, actionable **insights** an athlete or coach can use
 - How to build a **mini-version** of a real wearable recovery model like WHOOP or Oura’s
-
----
-
-## 🔍 What I Found
-
-- Higher daily strain scores were consistently associated with reduced REM and Deep sleep, suggesting that intense exertion may limit overnight recovery.
-- Sleep performance tended to improve on days with lower strain, especially when paired with longer total sleep durations.
-- Heart Rate Variability (HRV) dropped following high-strain days, indicating delayed physiological recovery.
-- Cycle phase appeared to influence recovery patterns: during the follicular phase, HRV was more resilient to strain, while luteal phase responses showed greater variability.
-- Sleep duration and performance were positively correlated, but not perfectly—highlighting the importance of sleep quality, not just quantity.
-- A linear regression model predicted sleep performance with R² = 0.89 and MSE = 57.48, indicating a strong signal in stage-level sleep metrics.
-
-> These insights helped me explore how training and recovery interact day to day, and gave me hands-on experience with building reproducible pipelines around wearable data.
 
 ---
 
