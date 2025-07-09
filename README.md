@@ -106,6 +106,24 @@ Explore the interactive dashboard here:
 
 ---
 
+## 📈 Sleep Performance Prediction Model
+
+| Metric | Value |
+|--------|-------|
+| **Mean Squared Error (MSE)** | 57.48 |
+| **R² Score**                 | 0.89  |
+
+> 🧠 MSE reflects the average squared error between predicted and actual sleep scores (lower is better).  
+> 📊 R² shows the proportion of variance explained—your model captures 89% of the signal in sleep performance!
+
+---
+
+## 📉 Actual vs Predicted Sleep Performance
+
+The scatter plot below compares predicted sleep performance scores to actual values in the test set. Strong clustering around the diagonal line indicates predictive accuracy.
+
+![Actual vs Predicted Sleep Performance](screenshots/actual_vs_predicted_sleep_perf.png)
+
 ## 🖥️ Dashboard Preview
 
 Explore the visuals from the app in action:
