@@ -48,7 +48,19 @@ This dashboard analyzes WHOOP data to explore how daily strain impacts sleep qua
 ```
 
 
+---
 
+## 📊 Feature Glossary
+
+| Feature Name            | Description                                                     | Example Value | Units / Scale       |
+|------------------------|------------------------------------------------------------------|---------------|---------------------|
+| `strain_score`         | WHOOP’s exertion metric based on cardiovascular load             | 16.0          | Scale of 0–21       |
+| `sleep_perf`           | Overall sleep performance score based on duration & quality      | 83.0          | Scale of 0–100%     |
+| `hrv_next`             | Morning Heart Rate Variability following a workout               | 115           | Milliseconds (ms)   |
+| `rem_min` / `deep_min` | Duration of REM / Deep sleep stages                              | 90 / 105      | Minutes             |
+| `cycle_phase`          | Menstrual cycle classification (`Follicular`, `Luteal`, etc.)    | Follicular    | Categorical         |
+| `sleep_efficiency`     | Ratio of sleep time vs time in bed                               | 92.1          | Percent (%)         |
+| `strain_category`      | Binned version of strain score (`Low`, `Moderate`, `High`)        | Moderate      | Categorical         |
 
 ---
 
